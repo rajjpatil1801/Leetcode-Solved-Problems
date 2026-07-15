@@ -17,8 +17,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/rajjpatil1801/Leetcode-Solved-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/rajjpatil1801/Leetcode-Solved-Problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/rajjpatil1801/Leetcode-Solved-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/rajjpatil1801/Leetcode-Solved-Problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->
