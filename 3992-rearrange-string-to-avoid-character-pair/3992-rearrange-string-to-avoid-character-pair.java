@@ -1,16 +1,14 @@
 class Solution {
     public String rearrangeString(String s, char x, char y) {
         int cnt = 0;
-        for(int i=0;i<s.length();i++){
-            if(s.charAt(i)==x) cnt++;
-        }
+        
         String s1 = "";
         
 
 
         for(int i=0;i<s.length();i++){
         
-            if(s.charAt(i)==x) continue; 
+            if(s.charAt(i)==x) cnt++;
             else{
                 s1 += s.charAt(i);
             }
