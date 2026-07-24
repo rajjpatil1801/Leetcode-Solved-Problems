@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/rajjpatil1801/Leetcode-Solved-Problems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rajjpatil1801/Leetcode-Solved-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0242-valid-anagram](https://github.com/rajjpatil1801/Leetcode-Solved-Problems/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/rajjpatil1801/Leetcode-Solved-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0705-design-hashset](https://github.com/rajjpatil1801/Leetcode-Solved-Problems/tree/master/0705-design-hashset) |
 | [0771-jewels-and-stones](https://github.com/rajjpatil1801/Leetcode-Solved-Problems/tree/master/0771-jewels-and-stones) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/rajjpatil1801/Leetcode-Solved-Problems/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/rajjpatil1801/Leetcode-Solved-Problems/tree/master/0349-intersection-of-two-arrays) |
 ## Design
 |  |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rajjpatil1801/Leetcode-Solved-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0242-valid-anagram](https://github.com/rajjpatil1801/Leetcode-Solved-Problems/tree/master/0242-valid-anagram) |
 | [0771-jewels-and-stones](https://github.com/rajjpatil1801/Leetcode-Solved-Problems/tree/master/0771-jewels-and-stones) |
 ## Sliding Window
 |  |
