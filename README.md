@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/rajjpatil1801/Leetcode-Solved-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0242-valid-anagram](https://github.com/rajjpatil1801/Leetcode-Solved-Problems/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/rajjpatil1801/Leetcode-Solved-Problems/tree/master/0349-intersection-of-two-arrays) |
+| [0383-ransom-note](https://github.com/rajjpatil1801/Leetcode-Solved-Problems/tree/master/0383-ransom-note) |
 | [0705-design-hashset](https://github.com/rajjpatil1801/Leetcode-Solved-Problems/tree/master/0705-design-hashset) |
 | [0771-jewels-and-stones](https://github.com/rajjpatil1801/Leetcode-Solved-Problems/tree/master/0771-jewels-and-stones) |
 ## Math
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rajjpatil1801/Leetcode-Solved-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0242-valid-anagram](https://github.com/rajjpatil1801/Leetcode-Solved-Problems/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/rajjpatil1801/Leetcode-Solved-Problems/tree/master/0383-ransom-note) |
 | [0771-jewels-and-stones](https://github.com/rajjpatil1801/Leetcode-Solved-Problems/tree/master/0771-jewels-and-stones) |
 ## Sliding Window
 |  |
@@ -70,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rajjpatil1801/Leetcode-Solved-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/rajjpatil1801/Leetcode-Solved-Problems/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
