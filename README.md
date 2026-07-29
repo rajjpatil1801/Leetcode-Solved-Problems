@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rajjpatil1801/Leetcode-Solved-Problems/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/rajjpatil1801/Leetcode-Solved-Problems/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rajjpatil1801/Leetcode-Solved-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/rajjpatil1801/Leetcode-Solved-Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/rajjpatil1801/Leetcode-Solved-Problems/tree/master/0088-merge-sorted-array) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/rajjpatil1801/Leetcode-Solved-Problems/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/rajjpatil1801/Leetcode-Solved-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rajjpatil1801/Leetcode-Solved-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/rajjpatil1801/Leetcode-Solved-Problems/tree/master/0075-sort-colors) |
@@ -84,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/rajjpatil1801/Leetcode-Solved-Problems/tree/master/0383-ransom-note) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/rajjpatil1801/Leetcode-Solved-Problems/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
