@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/rajjpatil1801/Leetcode-Solved-Problems/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/rajjpatil1801/Leetcode-Solved-Problems/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rajjpatil1801/Leetcode-Solved-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/rajjpatil1801/Leetcode-Solved-Problems/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/rajjpatil1801/Leetcode-Solved-Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/rajjpatil1801/Leetcode-Solved-Problems/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/rajjpatil1801/Leetcode-Solved-Problems/tree/master/0349-intersection-of-two-arrays) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/rajjpatil1801/Leetcode-Solved-Problems/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/rajjpatil1801/Leetcode-Solved-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rajjpatil1801/Leetcode-Solved-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/rajjpatil1801/Leetcode-Solved-Problems/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/rajjpatil1801/Leetcode-Solved-Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/rajjpatil1801/Leetcode-Solved-Problems/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/rajjpatil1801/Leetcode-Solved-Problems/tree/master/0349-intersection-of-two-arrays) |
@@ -94,4 +96,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/rajjpatil1801/Leetcode-Solved-Problems/tree/master/0011-container-with-most-water) |
 | [0881-boats-to-save-people](https://github.com/rajjpatil1801/Leetcode-Solved-Problems/tree/master/0881-boats-to-save-people) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/rajjpatil1801/Leetcode-Solved-Problems/tree/master/0042-trapping-rain-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/rajjpatil1801/Leetcode-Solved-Problems/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/rajjpatil1801/Leetcode-Solved-Problems/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
