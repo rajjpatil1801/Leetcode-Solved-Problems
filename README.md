@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/rajjpatil1801/Leetcode-Solved-Problems/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/rajjpatil1801/Leetcode-Solved-Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/rajjpatil1801/Leetcode-Solved-Problems/tree/master/0088-merge-sorted-array) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rajjpatil1801/Leetcode-Solved-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/rajjpatil1801/Leetcode-Solved-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/rajjpatil1801/Leetcode-Solved-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/rajjpatil1801/Leetcode-Solved-Problems/tree/master/0485-max-consecutive-ones) |
@@ -105,11 +106,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/rajjpatil1801/Leetcode-Solved-Problems/tree/master/0011-container-with-most-water) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rajjpatil1801/Leetcode-Solved-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0881-boats-to-save-people](https://github.com/rajjpatil1801/Leetcode-Solved-Problems/tree/master/0881-boats-to-save-people) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/rajjpatil1801/Leetcode-Solved-Problems/tree/master/0042-trapping-rain-water) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rajjpatil1801/Leetcode-Solved-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Stack
 |  |
 | ------- |
