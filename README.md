@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/rajjpatil1801/Leetcode-Solved-Problems/tree/master/0009-palindrome-number) |
+| [0062-unique-paths](https://github.com/rajjpatil1801/Leetcode-Solved-Problems/tree/master/0062-unique-paths) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rajjpatil1801/Leetcode-Solved-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 ## Linked List
 |  |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/rajjpatil1801/Leetcode-Solved-Problems/tree/master/0042-trapping-rain-water) |
+| [0062-unique-paths](https://github.com/rajjpatil1801/Leetcode-Solved-Problems/tree/master/0062-unique-paths) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/rajjpatil1801/Leetcode-Solved-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Stack
 |  |
@@ -126,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/rajjpatil1801/Leetcode-Solved-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/rajjpatil1801/Leetcode-Solved-Problems/tree/master/1004-max-consecutive-ones-iii) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/rajjpatil1801/Leetcode-Solved-Problems/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
