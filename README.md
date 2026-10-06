@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/rajjpatil1801/Leetcode-Solved-Problems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rajjpatil1801/Leetcode-Solved-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/rajjpatil1801/Leetcode-Solved-Problems/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/rajjpatil1801/Leetcode-Solved-Problems/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/rajjpatil1801/Leetcode-Solved-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/rajjpatil1801/Leetcode-Solved-Problems/tree/master/0383-ransom-note) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/rajjpatil1801/Leetcode-Solved-Problems/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/rajjpatil1801/Leetcode-Solved-Problems/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/rajjpatil1801/Leetcode-Solved-Problems/tree/master/0062-unique-paths) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rajjpatil1801/Leetcode-Solved-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 ## Linked List
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rajjpatil1801/Leetcode-Solved-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/rajjpatil1801/Leetcode-Solved-Problems/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/rajjpatil1801/Leetcode-Solved-Problems/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/rajjpatil1801/Leetcode-Solved-Problems/tree/master/0383-ransom-note) |
 | [0771-jewels-and-stones](https://github.com/rajjpatil1801/Leetcode-Solved-Problems/tree/master/0771-jewels-and-stones) |
